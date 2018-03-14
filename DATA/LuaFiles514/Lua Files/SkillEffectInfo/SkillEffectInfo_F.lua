@@ -8,6 +8,7 @@ function LaunchZC_USE_SKILL(SKID)
 	end
 	return effectInfo.LaunchZC_USE_SKILL
 end
+
 function HaveSkillEffectInfo(SKID)
 	local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
 	if effectInfo ~= nil then
@@ -15,6 +16,7 @@ function HaveSkillEffectInfo(SKID)
 	end
 	return false
 end
+
 function GetEffectWaveFileName(SKID)
 	local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
 	local fileName = ""
@@ -23,6 +25,7 @@ function GetEffectWaveFileName(SKID)
 	end
 	return fileName
 end
+
 function GetEffectNum(SKID)
 	local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
 	local effectNum = 0
@@ -31,6 +34,7 @@ function GetEffectNum(SKID)
 	end
 	return effectNum
 end
+
 function GetEffectID(SKID, idx)
 	local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
 	local effectID = -1
@@ -39,6 +43,7 @@ function GetEffectID(SKID, idx)
 	end
 	return effectID
 end
+
 function IsOnTarget(SKID)
 	local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
 	local bIsOnTarget = false
@@ -47,6 +52,7 @@ function IsOnTarget(SKID)
 	end
 	return bIsOnTarget
 end
+
 function GetTargetEffectWaveFileName(SKID)
 	local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
 	local fileName = ""
@@ -55,6 +61,7 @@ function GetTargetEffectWaveFileName(SKID)
 	end
 	return fileName
 end
+
 function GetTargetEffectNum(SKID)
 	local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
 	local targetEffectNum = 0
@@ -63,6 +70,7 @@ function GetTargetEffectNum(SKID)
 	end
 	return targetEffectNum
 end
+
 function GetTargetEffectID(SKID, idx)
 	local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
 	local targetEffectID = -1
@@ -71,6 +79,7 @@ function GetTargetEffectID(SKID, idx)
 	end
 	return targetEffectID
 end
+
 function GetGroundEffectNum(SKID)
 	local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
 	local groundEffectNum = 0
@@ -79,6 +88,7 @@ function GetGroundEffectNum(SKID)
 	end
 	return groundEffectNum
 end
+
 function GetGroundEffectID(SKID, idx)
 	local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
 	local groundEffectID = -1
@@ -87,6 +97,7 @@ function GetGroundEffectID(SKID, idx)
 	end
 	return groundEffectID
 end
+
 function GetBeginEffectID(SKID)
 	local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
 	local beginEffectID = -1
@@ -95,6 +106,7 @@ function GetBeginEffectID(SKID)
 	end
 	return beginEffectID
 end
+
 function GetBeginMotionType(SKID)
 	local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
 	local beginMotionType = -1
