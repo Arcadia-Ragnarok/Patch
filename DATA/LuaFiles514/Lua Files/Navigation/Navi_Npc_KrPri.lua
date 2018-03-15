@@ -1,4 +1,11 @@
 Navi_Npc = {
+	{ "aldebaran",19538,101,92,"Dona Risadinha","",136,135 },
+	{ "geffen",19539,101,92,"Dona Risadinha","",119,107 },
+	{ "moc_ruins",19537,101,92,"Dona Risadinha","",59,154 },
+	{ "payon",19541,101,92,"Dona Risadinha","",186,104 },
+	{ "prontera",19536,101,92,"Dona Risadinha","",157,187 },
+	{ "alberta",19540,101,92,"Dona Risadinha","",113,53 },
+	{ "izlude",19542,101,92,"Dona Risadinha","",129,118 },
 	{ "lighthalzen",20748,101,85,"Harrison","",205,284 },
 	{ "payon",19928,101,88,"Servo","",209,127 },
 	{ "alberta",17155,101,83,"Funcionária","",26,229 },
