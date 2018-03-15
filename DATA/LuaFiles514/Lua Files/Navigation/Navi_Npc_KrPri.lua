@@ -1,4 +1,7 @@
 Navi_Npc = {
+	{ "lighthalzen",20748,101,85,"Harrison","",205,284 },
+	{ "payon",19928,101,88,"Servo","",209,127 },
+	{ "alberta",17155,101,83,"Funcionária","",26,229 },
 	{ "airport",15612,101,90,"Funcionária","",143,43 },
 	{ "airport",15615,101,90,"Funcionária","",158,43 },
 	{ "airport",15618,101,90,"Funcionária","",126,43 },

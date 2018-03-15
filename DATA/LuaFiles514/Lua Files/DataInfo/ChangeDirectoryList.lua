@@ -15,7 +15,7 @@ ChangeDirectoryList = {
 	{ "OptionInfo.lua", "data", "SaveData" },
 	{ "ChatWndInfo_U.lua", "data", "SaveData" },
 	{ "UserKeys.lua", "data", "SaveData" },
-	{ "UserKeys_s.lua", "data", "SaveData" }
+	{ "UserKeys_s.lua", "data", "SaveData" },
 }
 
 function ChangeDirectoryOfFiles()

@@ -1,0 +1,157 @@
+		unidentifiedDisplayName = "Espada",
+		unidentifiedResourceName = "¼Òµå",
+		unidentifiedDescriptionName = {
+			"^777777Espada não identificada.^000000"
+		},
+==================================================
+		unidentifiedDisplayName = "Espada de Duas-Mãos",
+		unidentifiedResourceName = "ÅõÇÚµå¼Òµå",
+		unidentifiedDescriptionName = {
+			"^777777Espada de Duas-Mãos não identificada^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Adaga",
+		unidentifiedResourceName = "³ªÀÌÇÁ",
+		unidentifiedDescriptionName = {
+			"^777777Adaga não identificada^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Katar",
+		unidentifiedResourceName = "Ä«Å¸¸£",
+		unidentifiedDescriptionName = {
+			"^777777Katar não identificado^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Machado",
+		unidentifiedResourceName = "¾×½º",
+		unidentifiedDescriptionName = {
+			"^777777Machado não identificado^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Machado de Duas-Mãos",
+		unidentifiedResourceName = "¾×½º",
+		unidentifiedDescriptionName = {
+			"^777777Machado de Duas-Mãos não identificado^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Lança",
+		unidentifiedResourceName = "Àðº§¸°",
+		unidentifiedDescriptionName = {
+			"^777777Lança não identificada^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Lança de Duas-Mãos",
+		unidentifiedResourceName = "Àðº§¸°",
+		unidentifiedDescriptionName = {
+			"^777777Lança de Duas-Mãos não identificada^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Cajado de Duas-Mãos",
+		unidentifiedResourceName = "·Ôµå",
+		unidentifiedDescriptionName = {
+			"^777777Cajado de Duas-Mãos não identificado^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Cajado",
+		unidentifiedResourceName = "·Ôµå",
+		unidentifiedDescriptionName = {
+			"^777777Cajado não identificado^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Maça",
+		unidentifiedResourceName = "Å¬·´",
+		unidentifiedDescriptionName = {
+			"^777777Maça não identificada^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Livro",
+		unidentifiedResourceName = "ºÏ",
+		unidentifiedDescriptionName = {
+			"^777777Livro não identificado^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Arco",
+		unidentifiedResourceName = "º¸¿ì",
+		unidentifiedDescriptionName = {
+			"^777777Arco não identificado^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Soqueira",
+		unidentifiedResourceName = "¹Ù±×³«",
+		unidentifiedDescriptionName = {
+			"^777777Soqueira não identificada^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Instrumento",
+		unidentifiedResourceName = "¹ÙÀÌ¿Ã¸°",
+		unidentifiedDescriptionName = {
+			"^777777Instrumento Músical não identificado^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Chicote",
+		unidentifiedResourceName = "·ÎÇÁ",
+		unidentifiedDescriptionName = {
+			"^777777Chicote não identificado^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Escudo",
+		unidentifiedResourceName = "½¯µå",
+		unidentifiedDescriptionName = {
+			"^777777Escudo não identificado^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Equipamento de Cabeça",
+		unidentifiedResourceName = "Çï¸§",
+		unidentifiedDescriptionName = {
+			"^777777Equipamento de Cabeça não identificado^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Vestimenta",
+		unidentifiedResourceName = "¿ìµç¸ÞÀÏ",
+		unidentifiedDescriptionName = {
+			"^777777Vestimenta não identificada^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Calçado",
+		unidentifiedResourceName = "ºÎÃ÷",
+		unidentifiedDescriptionName = {
+			"^777777Calçado não identificado^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Capa",
+		unidentifiedResourceName = "ÈÄµå",
+		unidentifiedDescriptionName = {
+			"^777777Capa não identificada^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Acessório",
+		unidentifiedResourceName = "Å¬¸³",
+		unidentifiedDescriptionName = {
+			"^777777Acessório não identificado^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Item de Bixinho",
+		unidentifiedResourceName = "²ÀÁö",
+		unidentifiedDescriptionName = {
+			"^777777Acessório não identificado^000000."
+		},
+================================================== [Revolver]
+		unidentifiedDisplayName = "Arma de Fogo",
+		unidentifiedResourceName = "½Ä½º½´ÅÍ",
+		unidentifiedDescriptionName = {
+			"^777777Arma não identificada^000000."
+		},
+================================================== [Espingarda]
+		unidentifiedDisplayName = "Arma de Fogo",
+		unidentifiedResourceName = "¶óÀÌÇÃ",
+		unidentifiedDescriptionName = {
+			"^777777Arma não identificada^000000."
+		},
+==================================================
+		unidentifiedDisplayName = "Shuriken",
+		unidentifiedResourceName = "Ç³¸¶_ÆíÀÍ",
+		unidentifiedDescriptionName = {
+			"^777777Shuriken não identificada^000000."
+		},
+
+
