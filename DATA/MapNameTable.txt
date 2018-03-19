@@ -1,4 +1,4 @@
-prontera.rsw#Prontera#
+prontera.rsw#Prontera, Capital de Rune Midgard#
 prt_in.rsw#Casa em Prontera#
 prt_castle.rsw#Castelo de Prontera#
 prt_church.rsw#Catedral#
@@ -64,18 +64,18 @@ gef_fild08.rsw#Arredores de Geffen (08)#
 gef_fild09.rsw#Arredores de Geffen (09)#
 gef_fild10.rsw#Arredores de Geffen (10)#
 gef_fild11.rsw#Arredores de Geffen (11)#
-gef_fild13.rsw#Arredores de Geffen (13)#
+gef_fild13.rsw#Feudo de Britoniah#
 gef_dun00.rsw#Calabouço de Geffen (1)#
 gef_dun01.rsw#Calabouço de Geffen (2)#
 gef_dun02.rsw#Geffenia (1)#
 gef_dun03.rsw#Geffenia (2)#
 
-alberta.rsw#Alberta#
+alberta.rsw#Alberta a Cidade Portuária#
 alberta_in.rsw#Casa em Alberta#
 alb_ship.rsw#Navio de Alberta#
 alb2trea.rsw#Ilha de Alberta#
 
-morocc.rsw#Morroc#
+morocc.rsw#Morroc a Cidade do Deserto#
 morocc_in.rsw#Casa em Morroc#
 moc_ruins.rsw#Ruínas de Morroc#
 moc_fild01.rsw#Deserto Sograt (01)#
@@ -124,7 +124,7 @@ alde_dun02.rsw#Torre do Relógio (s2)#
 alde_dun03.rsw#Torre do Relógio (s3)#
 alde_dun04.rsw#Torre do Relógio (s4)#
 
-payon.rsw#Payon#
+payon.rsw#Payon a cidade das montanhas do leste#
 payon_in01.rsw#Casa em Payon (1)#
 payon_in02.rsw#Casa em Payon (2)#
 payon_in03.rsw#Casa em Payon (3)#
@@ -535,7 +535,7 @@ man_fild01.rsw#Montanhas dos Manuk#
 man_fild02.rsw#Montanhas dos Manuk#
 man_fild03.rsw#Montanhas dos Manuk#
 
-splendide.rsw#Base dos Esplêndidos, Esplendor#
+splendide.rsw#Esplendor, Base dos Esplêndidos#
 spl_in01.rsw#Dentro de Esplendor#
 spl_in02.rsw#Dentro de Esplendor#
 spl_fild01.rsw#Campos dos Esplendores#
@@ -610,7 +610,7 @@ ma_in01.rsw#Interior de Malaya#
 ma_fild01.rsw#Baryo Mahiwaga#
 ma_fild02.rsw#Floresta#
 ma_scene01.rsw#Lago Bakonawa#
-ma_dun01.rsw#Hospital de Bangungot, 1º andar#
+ma_dun01.rsw#Hospital de Bangungot#
 ma_zif01.rsw#Interior de Jeepney#
 ma_zif02.rsw#Interior de Jeepney#
 ma_zif03.rsw#Interior de Jeepney#
@@ -625,7 +625,7 @@ ma_zif09.rsw#Interior de Jeepney#
 1@ma_c.rsw#Caverna Buwaya#
 1@ma_b.rsw#Esconderijo Bakonawa#
 
-eclage.rsw#Eclage#
+eclage.rsw#Eclage, A Vila da Fronteira#
 ecl_in01.rsw#Praça de Eclage#
 ecl_in02.rsw#Interior de Eclage 2#
 ecl_in03.rsw#Interior de Eclage 3#
@@ -635,9 +635,9 @@ ecl_hub01.rsw#Perímetros de Eclage#
 que_avan01.rsw#que_avan01#
 
 1@ecl.rsw#Torre de Bifröst#
-ecl_tdun01.rsw#Torre de Bifröst - 1o Piso#
-ecl_tdun02.rsw#Torre de Bifröst - 2o Piso#
-ecl_tdun03.rsw#Torre de Bifröst - 3o Piso#
+ecl_tdun01.rsw#Torre de Bifröst#
+ecl_tdun02.rsw#Torre de Bifröst#
+ecl_tdun03.rsw#Torre de Bifröst#
 ecl_tdun04.rsw#Topo da Torre de Bifröst#
 
 1@gl_k.rsw#1@gl_k#

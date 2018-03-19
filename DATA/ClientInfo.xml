@@ -3,7 +3,7 @@
 	<servicetype>brazil</servicetype>
 	<servertype>primary</servertype>
 	<connection>
-			<display>Arcadia RO</display>
+			<display>Arcadia</display>
 			<address>127.0.0.1</address>
 			<port>6900</port>
 			<version>20</version>

@@ -1694,7 +1694,7 @@ JobNameTable = {
 --	JT_R_DEVIRUCHI
 --	JT_G_DOPPELGANGER
 --	JT_G_TREASURE_BOX
---	JT_KIEL
+	[jobtbl.JT_KIEL] = "KIEL",
 	[jobtbl.JT_KIEL_] = "KIEL_",
 	[jobtbl.JT_ALICEL] = "ALICEL",
 	[jobtbl.JT_ALIOT] = "ALIOT",

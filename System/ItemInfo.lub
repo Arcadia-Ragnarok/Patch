@@ -45912,7 +45912,17 @@ tbl = {
 		ClassNum = 0
 	},
 
--- Item_ID: 7491 Item_Name: Iron_Box
+	[7491] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Steel Box",
+		identifiedResourceName = "Ã¶»óÀÚ",
+		identifiedDescriptionName = {
+			"Uma caixa de aço com um pequeno buraco de fechadura em sua tampa. Ela deve conter aquilo que Kiehl Hyre queria entregar a Elly.",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 
 	[7492] = {
 		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
@@ -45962,8 +45972,29 @@ tbl = {
 		ClassNum = 0
 	},
 
--- Item_ID: 7496 Item_Name: Red_Key_Card
--- Item_ID: 7497 Item_Name: Steel_Piece
+	[7496] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Red Keycard",
+		identifiedResourceName = "¿­¼è_»¡°­",
+		identifiedDescriptionName = {
+			"Um cartão de acesso vermelho, liso e translúcido, que garante o acesso à uma área restrita específica.",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7497] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Metal Fragment",
+		identifiedResourceName = "¹ÌÁöÀÇÁ¶°¢",
+		identifiedDescriptionName = {
+			"Um fragmento metálico de aparência peculiar.",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 
 	[7498] = {
 		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
@@ -46063,7 +46094,17 @@ tbl = {
 		ClassNum = 0
 	},
 
--- Item_ID: 7506 Item_Name: Black_Key_Card
+	[7506] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Black Keycard",
+		identifiedResourceName = "¿­¼è_°ËÁ¤",
+		identifiedDescriptionName = {
+		"Uma chave preta, lisa e transparente, que garante o acesso à porta da frente.",
+		"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 
 	[7507] = {
 		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
