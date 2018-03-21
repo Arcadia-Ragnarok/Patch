@@ -5947,8 +5947,31 @@ tbl = {
 		ClassNum = 44
 	},
 
--- Item_ID: 1144 Item_Name: Sasimi
--- Item_ID: 1145 Item_Name: Holy_Avenger
+	[1144] = {
+		unidentifiedDisplayName = "Espada",
+		unidentifiedResourceName = "¼Òµå",
+		unidentifiedDescriptionName = {
+			"^777777Espada não identificada.^000000"
+		},
+		identifiedDisplayName = "Sashimi",
+		identifiedResourceName = "»ç½Ã¹Ì",
+		identifiedDescriptionName = {
+			"Espada com uma lâmina fina, extremamente afiada.",
+			"Pode ser usada para preparar iguarias da culinária japonesa.",
+			"Obviamente, essa espada é o terror dos peixes.",
+			"^0000ffEncantada com a Propriedade Vento.^000000",
+			"Classe: ^777777Espada^000000",
+			"Força de Ataque: ^77777775^000000",
+			"Peso: ^777777140^000000",
+			"Nível da arma: ^7777773^000000",
+			"Nível necessário: ^77777748^000000",
+			"Classes que utilizam: ^777777Espadachim/Mercador/Gatuno e as respectivas evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 37
+	},
+
+	-- Item_ID: 1145 Item_Name: Holy_Avenger
 
 	[1146] = {
 		unidentifiedDisplayName = "Espada",
