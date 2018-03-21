@@ -1,4 +1,8 @@
 Navi_Npc = {
+	{ "alberta",14063,101,709,"Barqueiro","",247,122 },
+	{ "tur_dun01",14065,101,709,"Barqueiro","",165,29 },
+	{ "cmd_in02",20972,101,828,"Investigador","",94,208 },
+	{ "alberta",20964,101,85,"Belder","",127,143 },
 	{ "aldebaran",19538,101,92,"Dona Risadinha","",136,135 },
 	{ "geffen",19539,101,92,"Dona Risadinha","",119,107 },
 	{ "moc_ruins",19537,101,92,"Dona Risadinha","",59,154 },

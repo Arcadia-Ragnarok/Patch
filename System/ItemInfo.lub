@@ -42251,7 +42251,18 @@ tbl = {
 		ClassNum = 0
 	},
 
--- Item_ID: 7042 Item_Name: Leather_Bag_Of_Infinity
+	[7042] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Alforje_de_Couro_do_Infinito",
+		identifiedResourceName = "¹«ÇÑ°¡Á×ÁÖ¸Ó´Ï",
+		identifiedDescriptionName = {
+			"Sacola misteriosa feita de couro leve.",
+			"Parece não haver limite para a quantidade de coisas que se pode carregar com ela.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 
 	[7043] = {
 		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
