@@ -1,4 +1,6 @@
 Navi_Npc = {
+	{ "lighthalzen",14994,101,868,"Guarda","",294,223 },
+	{ "prt_fild05",13855,101,105,"Guardião dos Esgotos","",270,212 },
 	{ "ama_in02",14526,101,767,"Soldado","",187,57 },
 	{ "ama_in02",14528,101,767,"Soldado","",37,157 },
 	{ "ama_in02",14529,101,767,"Soldado","",32,51 },
