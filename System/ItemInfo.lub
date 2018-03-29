@@ -6908,7 +6908,26 @@ tbl = {
 		ClassNum = 1
 	},
 
--- Item_ID: 1206 Item_Name: Cutter__
+	[1206] = {
+		unidentifiedDisplayName = "Adaga",
+		unidentifiedResourceName = "³ªÀÌÇÁ",
+		unidentifiedDescriptionName = {
+			"^777777Adaga não identificada^000000."
+		},
+		identifiedDisplayName = "Punhal",
+		identifiedResourceName = "Ä¿ÅÍ",
+		identifiedDescriptionName = {
+			"Uma faca muito melhor para usar em ataques.",
+			"Classe: ^777777Adaga^000000",
+			"Força de Ataque: ^77777730^000000",
+			"Peso: ^77777750^000000",
+			"Nível da arma: ^7777771^000000",
+			"Nível necessário: ^777777Nenhum^000000",
+			"Classes que utilizam: ^777777Aprendiz/ Espadachim/ Mago/ Arqueiro/ Mercador / Gatuno e as respectivas evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1
+	},
 
 	[1207] = {
 		unidentifiedDisplayName = "Adaga",
@@ -7491,7 +7510,26 @@ tbl = {
 		ClassNum = 1
 	},
 
--- Item_ID: 1238 Item_Name: Zeny_Knife
+	[1238] = {
+		unidentifiedDisplayName = "Adaga",
+		unidentifiedResourceName = "³ªÀÌÇÁ",
+		unidentifiedDescriptionName = {
+			"^777777Adaga não identificada^000000."
+		},
+		identifiedDisplayName = "Adaga da Cobiça",
+		identifiedResourceName = "Á¦´Ï³ªÀÌÇÁ",
+		identifiedDescriptionName = {
+			"Essa adaga dá ao usuário uma chance de conseguir zeny dos monstros que mata.",
+			"Classe: ^777777Adaga^000000",
+			"Força de Ataque: ^77777764^000000",
+			"Peso: ^777777120^000000",
+			"Nível da arma: ^7777773^000000",
+			"Nível necessário: ^77777770^000000",
+			"Classes que utilizam: ^777777Espadachim/Mago/Arqueiro/Mercador/Gatuno e as respectivas evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 34
+	},
 
 	[1239] = {
 		unidentifiedDisplayName = "Adaga",
@@ -42586,17 +42624,137 @@ tbl = {
 		ClassNum = 0
 	},
 
--- Item_ID: 7075 Item_Name: Iron_Maiden
--- Item_ID: 7076 Item_Name: Mystery_Wheel
--- Item_ID: 7077 Item_Name: Silver_Fancy
--- Item_ID: 7078 Item_Name: Anger_Of_Valkurye
--- Item_ID: 7079 Item_Name: Feather_Of_Angel
--- Item_ID: 7080 Item_Name: Foot_Step_Of_Cat
--- Item_ID: 7081 Item_Name: Beard_Of_Women
--- Item_ID: 7082 Item_Name: Root_Of_Stone
--- Item_ID: 7083 Item_Name: Soul_Of_Fish
--- Item_ID: 7084 Item_Name: Saliva_Of_Bird
--- Item_ID: 7085 Item_Name: Tendon_Of_Bear
+	[7075] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Dama de Ferro",
+		identifiedResourceName = "¾ÆÀÌ¾ð¸ÞÀÌµç",
+		identifiedDescriptionName = {
+			"Instrumento de tortura medieval composto por sarcófago com o interior revestido de pregos.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7076] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Roda desconhecida",
+		identifiedResourceName = "¹ÌÁöÀÇÅé´Ï¹ÙÄû",
+		identifiedDescriptionName = {
+			"Uma roda dentada de uso desconhecido.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7077] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ornamento de Prata",
+		identifiedResourceName = "ÀºÀå½Ä",
+		identifiedDescriptionName = {
+			"Ornamentos feitos de prata.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7078] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Fúria das Valquírias",
+		identifiedResourceName = "¹ßÅ°¸®ÀÇºÐ³ë",
+		identifiedDescriptionName = {
+			"Escultura mostrando as Valquírias, mulheres guerreiras da mitologia nórdica.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7079] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Pena de Asas Angelicais",
+		identifiedResourceName = "Ãµ»çÀÇ³¯°³±êÅÐ",
+		identifiedDescriptionName = {
+			"Pena macia da asa de um anjo.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7080] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Passos de Gato",
+		identifiedResourceName = "°í¾çÀÌÀÇ¹ß¼Ò¸®",
+		identifiedDescriptionName = {
+			"Item inconcebível que condensa os passos de um gato.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7081] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Barbas de Mulher",
+		identifiedResourceName = "¿©ÀÎÀÇ¼ö¿°",
+		identifiedDescriptionName = {
+			"Pelo facial de uma mulher.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7082] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Raiz de Montanha",
+		identifiedResourceName = "µ¹ÀÇ»Ñ¸®",
+		identifiedDescriptionName = {
+			"Raiz de uma pedra lendária que seria a Mãe de Todas as Pedras.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7083] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Hálito de Peixe",
+		identifiedResourceName = "¹°°í±âÀÇ¿µÈ¥",
+		identifiedDescriptionName = {
+			"Uma garrafa contendo o espírito de um peixe.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7084] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Saliva de Ave",
+		identifiedResourceName = "»õÀÇÄ§",
+		identifiedDescriptionName = {
+			"Uma garrafa comprida contendo saliva de pássaros.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7085] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Nervos de Urso",
+		identifiedResourceName = "°õÀÇÈûÁÙ",
+		identifiedDescriptionName = {
+			"Um punhado de tutano de ossos de urso.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 
 	[7086] = {
 		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
@@ -42610,12 +42768,77 @@ tbl = {
 		ClassNum = 0
 	},
 
--- Item_ID: 7087 Item_Name: Breath_Of_Soul
--- Item_ID: 7088 Item_Name: Crystal_Of_Snow
--- Item_ID: 7089 Item_Name: Indication_Of_Tempest
--- Item_ID: 7090 Item_Name: Slilince_Wave
--- Item_ID: 7091 Item_Name: Rough_Billows
--- Item_ID: 7092 Item_Name: Air_Stream
+	[7087] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Essência de Espírito",
+		identifiedResourceName = "¿µÈ¥ÀÇ¼û¼Ò¸®",
+		identifiedDescriptionName = {
+			"A baforada de um espírito.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7088] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Floco de Neve",
+		identifiedResourceName = "´«ÀÇ°áÁ¤",
+		identifiedDescriptionName = {
+			"Um cristal hexagonal de neve.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7089] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Presságio de Tempestade",
+		identifiedResourceName = "ÆøÇ³¿ìÀÇÂ¡Á¶",
+		identifiedDescriptionName = {
+			"Uma garrafa que avisa quando tempestades estão próximas.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7090] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Murmúrio",
+		identifiedResourceName = "Á¶¿ëÇÑ¹°°á",
+		identifiedDescriptionName = {
+			"Uma garrafa contendo a imagem de ondas em um dia ensolarado.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7091] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Tsunami",
+		identifiedResourceName = "¸ô¾ÆÄ¡´ÂÆÄµµ",
+		identifiedDescriptionName = {
+			"Uma estatueta mostrando uma grande onda do mar quebrando no litoral.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[7092] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ar Silencioso",
+		identifiedResourceName = "Èå¸£´Â°ø±â",
+		identifiedDescriptionName = {
+			"Estatueta simbolizando o ar se deslocando em silêncio.",
+			"Peso: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 
 	[7093] = {
 		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
