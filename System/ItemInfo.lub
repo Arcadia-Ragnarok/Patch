@@ -47552,33 +47552,412 @@ tbl = {
 -- Item_ID: 7997 Item_Name: Spring_Stanza20
 -- Item_ID: 7998 Item_Name: Spring_Stanza21
 -- Item_ID: 7999 Item_Name: Spring_Stanza22
--- Item_ID: 9001 Item_Name: Poring_Egg
--- Item_ID: 9002 Item_Name: Drops_Egg
--- Item_ID: 9003 Item_Name: Poporing_Egg
--- Item_ID: 9004 Item_Name: Lunatic_Egg
--- Item_ID: 9005 Item_Name: Picky_Egg
--- Item_ID: 9006 Item_Name: Chonchon_Egg
--- Item_ID: 9007 Item_Name: Steel_Chonchon_Egg
--- Item_ID: 9008 Item_Name: Hunter_Fly_Egg
--- Item_ID: 9009 Item_Name: Savage_Bebe_Egg
--- Item_ID: 9010 Item_Name: Baby_Desert_Wolf_Egg
--- Item_ID: 9011 Item_Name: Rocker_Egg
--- Item_ID: 9012 Item_Name: Spore_Egg
--- Item_ID: 9013 Item_Name: Poison_Spore_Egg
--- Item_ID: 9014 Item_Name: PecoPeco_Egg
--- Item_ID: 9015 Item_Name: Smokie_Egg
--- Item_ID: 9016 Item_Name: Yoyo_Egg
--- Item_ID: 9017 Item_Name: Orc_Warrior_Egg
--- Item_ID: 9018 Item_Name: Munak_Egg
--- Item_ID: 9019 Item_Name: Dokkaebi_Egg
--- Item_ID: 9020 Item_Name: Sohee_Egg
--- Item_ID: 9021 Item_Name: Isis_Egg
--- Item_ID: 9022 Item_Name: Green_Petite_Egg
--- Item_ID: 9023 Item_Name: Deviruchi_Egg
--- Item_ID: 9024 Item_Name: Bapho_Jr._Egg
--- Item_ID: 9025 Item_Name: Bongun_Egg
--- Item_ID: 9026 Item_Name: Zherlthsh_Egg
--- Item_ID: 9027 Item_Name: Alice_Egg
+
+	[9001] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Poring",
+		identifiedResourceName = "¼ö¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Poring de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffSOR +2, Crítico +1.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9002] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Drops",
+		identifiedResourceName = "È­¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Drops de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffPrecisão +3, ATQ +3.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9003] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Poporing",
+		identifiedResourceName = "µ¶¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Poporing de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffSOR +2, resistência a Envenenamento +10.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9004] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Lunático",
+		identifiedResourceName = "¹«¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Lunático de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffCrítico +2, ATQ +2.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9005] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Picky",
+		identifiedResourceName = "È­¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Picky de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffFOR +1, ATQ +5.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9006] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Chonchon",
+		identifiedResourceName = "Ç³¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Chonchon de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffAGI +1, Esquiva +2.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9007] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Chonchon de Aço",
+		identifiedResourceName = "Ç³¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Chonchon de Aço de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffAGI -1, Esquiva +6.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9008] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Mosca Caçadora",
+		identifiedResourceName = "Ç³¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Mosca Caçadora de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffEsquiva -5, Esquiva Perfeita +2.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9009] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Bebê Selvagem",
+		identifiedResourceName = "Áö¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Bebê Selvagem de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffVIT +1, Máx. HP +50.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9010] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Filhote de Lobo",
+		identifiedResourceName = "Áö¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Filhote de Lobo de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffINT +1, Máx. SP +20.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9011] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Rocker",
+		identifiedResourceName = "Áö¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Rocker de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffRecuperação de HP +5%, Máx. HP +25.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9012] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Esporo",
+		identifiedResourceName = "¼ö¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Esporo de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffPrecisão +5, ATQ -2.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9013] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Esporo Venenoso",
+		identifiedResourceName = "µ¶¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Esporo Venenoso de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffFOR +1, INT +1.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9014] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de PecoPeco",
+		identifiedResourceName = "È­¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Peco Peco de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffMáx. SP -10, Máx. HP +150.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9015] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Fumacento",
+		identifiedResourceName = "Áö¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Fumacento de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffAGI +1, Esquiva Perfeita +1.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9016] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Yoyo",
+		identifiedResourceName = "Áö¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Yoyo de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffCrítico +3, SOR -1.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9017] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Guerreiro Orc",
+		identifiedResourceName = "Áö¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Guerreiro Orc de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffDEF -3, ATQ +10.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9018] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Munak",
+		identifiedResourceName = "¾ðµ¥µå¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo uma Munak de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffDEF +1, INT +1.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9019] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Dokebi",
+		identifiedResourceName = "¾Ï¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Dokebi de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffATQM +1%, ATQ -1%.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9020] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Sohee",
+		identifiedResourceName = "¼ö¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo uma Sohee de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffFOR +1, DES +1.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9021] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Isis",
+		identifiedResourceName = "¾Ï¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo uma Isis de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffATQM -1%, ATQ +1%.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9022] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Petite",
+		identifiedResourceName = "Áö¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Petite de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffVelocidade de Ataque +1%, DEF -2, DEFM -2.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9023] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Deviruchi",
+		identifiedResourceName = "¾Ï¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Deviruchi de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffATQ e ATQM + 1%, Máx. HP e Máx. SP -3%.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9024] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Bafomé Jr.",
+		identifiedResourceName = "¾Ï¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Bafomé Jr. de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffDEF e DEFM +1, diminui a resistência a atordoamento em 1%.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9025] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Bongun",
+		identifiedResourceName = "¾Ï¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Bongun de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"Com lealdade normal/alta: ^0000ffVIT +1, aumenta a resistência a Atordoamento em 1%.^000000",
+			"Classe: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9026] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Jirtas",
+		identifiedResourceName = "¹«¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo uma Jirtas de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"^0000ffCom lealdade normal/alta: Aumenta o ATQ e ATQM contra raça Humanoide em 2%.^000000",
+			"Tipo: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9027] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Alice",
+		identifiedResourceName = "¹«¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo uma Alice de estimação.",
+			"Deve ser chocado por uma Incubadora.",
+			"^0000ffCom lealdade normal/alta: DEFM +1, diminui o dano recebido pela raça Humanoide em 1%.^000000",
+			"Tipo: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
 -- Item_ID: 9028 Item_Name: Rice_Cake_Egg
 -- Item_ID: 9029 Item_Name: Santa_Goblin_Egg
 -- Item_ID: 9030 Item_Name: Chung_E_Egg
@@ -47606,11 +47985,56 @@ tbl = {
 -- Item_ID: 9052 Item_Name: Incubus_Egg
 -- Item_ID: 9053 Item_Name: Golem_Egg
 -- Item_ID: 9054 Item_Name: Nightmare_Terror_Egg
--- Item_ID: 9055 Item_Name: Succubus_Egg
--- Item_ID: 9056 Item_Name: Imp_Egg
+
+	[9055] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Succubus",
+		identifiedResourceName = "¾Ï¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo uma Succubus de estimação.",
+			"Deve ser chocado por uma ^33CC33Incubadora^000000.",
+			"Com lealdade normal/alta:",
+			"^0000ffChance de converter 5% do dano físico causado em HP. ^000000",
+			"Tipo: ^777777Ovo de Bichinho^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[9056] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Imp",
+		identifiedResourceName = "È­¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo contendo um Imp de estimação.",
+			"Deve ser chocado por uma ^33CC33Incubadora^000000.",
+			"^0000ffCom lealdade normal/alta: +2% de resistência à propriedade Fogo e +1% de dano a monstros da propriedade Fogo.^000000",
+			"Tipo: ^777777Ovo de Bichinho^000000",
+			"Comida: ^777777Gema em Chamas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
 -- Item_ID: 9057 Item_Name: Egg_Of_Tiny
 -- Item_ID: 9058 Item_Name: Snow_Rabbit_Egg
--- Item_ID: 9059 Item_Name: Tikbalang_Pet
+
+	[9059] = {
+		unidentifiedDisplayName = " ", unidentifiedResourceName = " ", unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Ovo de Tikbalang",
+		identifiedResourceName = "¾Ï¼Ó¼º¾Ë",
+		identifiedDescriptionName = {
+			"Ovo de Bichinho de Tikbalang. ",
+			"Você pode chocar o ovo com uma [Incubadora].",
+			"^0000ffDEFM +3.^000000",
+			"^0000ffDano físico contra Bakonawa, Bangungot e Buwaya +10%.^000000",
+			"Tipo: ^777777Ovo de Monstro^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
 -- Item_ID: 9060 Item_Name: Brownie_Egg
 -- Item_ID: 9061 Item_Name: Marin_Egg
 -- Item_ID: 9062 Item_Name: Novice_Poring_Egg
@@ -47991,8 +48415,41 @@ tbl = {
 -- Item_ID: 10034 Item_Name: Ball_Mask
 -- Item_ID: 10035 Item_Name: Windup_Spring
 -- Item_ID: 10036 Item_Name: Hell_Horn
--- Item_ID: 10037 Item_Name: Black_Butterfly_Mask
--- Item_ID: 10038 Item_Name: Horn_Protector
+
+	[10037] = {
+		unidentifiedDisplayName = "Item de Bixinho",
+		unidentifiedResourceName = "²ÀÁö",
+		unidentifiedDescriptionName = {
+			"^777777Acessório não identificado^000000."
+		},
+		identifiedDisplayName = "Máscara de Borboleta",
+		identifiedResourceName = "°ËÀº³ªºñ°¡¸é",
+		identifiedDescriptionName = {
+			"Uma mácara que lembra uma borbotela preta.",
+			"Classe: ^777777Acessório para Bicho de Estimação^000000",
+			"Serve para:^0000FF Succubus^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[10038] = {
+		unidentifiedDisplayName = "Item de Bixinho",
+		unidentifiedResourceName = "²ÀÁö",
+		unidentifiedDescriptionName = {
+			"^777777Acessório não identificado^000000."
+		},
+		identifiedDisplayName = "Chfres Protetores",
+		identifiedResourceName = "»Ôº¸È£´ë",
+		identifiedDescriptionName = {
+			"Chifres proterotes típico dos Imps.",
+			"Classe: ^777777Acessório para Bicho de Estimação^000000",
+			"Serve para:^0000FF Imp^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
 -- Item_ID: 10039 Item_Name: Tw_Backpack
 -- Item_ID: 11000 Item_Name: Prontera_Book_01
 -- Item_ID: 11001 Item_Name: Adventure_Story01
